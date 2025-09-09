@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\data\\artesaniasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:data\\artesaniasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|c:\\users\\presi\\desktop\\univalle\\programacion web iii\\practicasenclases\\practica3mvcartesanias\\practica3mvcartesanias\\practica3mvcartesaniasvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA829AE-C301-46CC-8343-6D95C45C8339}|Practica3MVCartesaniasVS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoModel.cs",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\ProductoModel.cs",
+              "RelativeToolTip": "Models\\ProductoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:55:14.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\PedidoModel.cs",
+              "RelativeDocumentMoniker": "Models\\PedidoModel.cs",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\PedidoModel.cs",
+              "RelativeToolTip": "Models\\PedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:55:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallePedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\DetallePedidoModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetallePedidoModel.cs",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\DetallePedidoModel.cs",
+              "RelativeToolTip": "Models\\DetallePedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:54:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Models\\ClienteModel.cs",
+              "RelativeToolTip": "Models\\ClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:54:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtesaniasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Data\\ArtesaniasDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ArtesaniasDBContext.cs",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Data\\ArtesaniasDBContext.cs",
+              "RelativeToolTip": "Data\\ArtesaniasDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:53:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T15:48:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Presi\\Desktop\\UNIVALLE\\Programacion Web III\\PracticasEnClases\\Practica3MVCartesanias\\Practica3MVCartesanias\\Practica3MVCartesaniasVS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:48:09.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
